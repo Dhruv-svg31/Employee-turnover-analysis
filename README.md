@@ -34,6 +34,6 @@ Machine Learning Classification
 - Identified limitations related to class imbalance and recall for attrition cases
 
 #Results
-Achieved 74.7% accuracy on the test dataset
-Model performed well in predicting employees who stayed
-Highlighted the need for advanced models to better identify employees likely to leave
+- Achieved 74.7% accuracy on the test dataset
+- Model performed well in predicting employees who stayed
+- Highlighted the need for advanced models to better identify employees likely to leave
